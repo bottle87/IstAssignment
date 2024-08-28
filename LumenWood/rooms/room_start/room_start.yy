@@ -22,14 +22,14 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_7E45217D","path":"rooms/room_homescreen/room_homescreen.yy",},
+    {"name":"inst_7E45217D","path":"rooms/room_start/room_start.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
   "roomSettings": {
     "inheritRoomSettings": false,
-    "Width": 1366,
-    "Height": 768,
+    "Width": 1600,
+    "Height": 900,
     "persistent": false,
   },
   "viewSettings": {
@@ -50,7 +50,7 @@
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "room_homescreen",
+  "name": "room_start",
   "tags": [],
   "resourceType": "GMRoom",
 }

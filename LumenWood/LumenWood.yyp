@@ -4,7 +4,8 @@
     {"id":{"name":"font_info","path":"fonts/font_info/font_info.yy",},"order":0,},
     {"id":{"name":"obj_introtext","path":"objects/obj_introtext/obj_introtext.yy",},"order":1,},
     {"id":{"name":"room_gameintro","path":"rooms/room_gameintro/room_gameintro.yy",},"order":1,},
-    {"id":{"name":"room_homescreen","path":"rooms/room_homescreen/room_homescreen.yy",},"order":0,},
+    {"id":{"name":"spr_startbg","path":"sprites/spr_startbg/spr_startbg.yy",},"order":0,},
+    {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Android","path":"options/android/options_android.yy",},
@@ -29,7 +30,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"room_homescreen","path":"rooms/room_homescreen/room_homescreen.yy",},},
+    {"roomId":{"name":"room_start","path":"rooms/room_start/room_start.yy",},},
     {"roomId":{"name":"room_gameintro","path":"rooms/room_gameintro/room_gameintro.yy",},},
   ],
   "Folders": [
