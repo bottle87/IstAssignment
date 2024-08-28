@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":0,},
+    {"id":{"name":"room_gameintro","path":"rooms/room_gameintro/room_gameintro.yy",},"order":1,},
     {"id":{"name":"room_homescreen","path":"rooms/room_homescreen/room_homescreen.yy",},"order":0,},
   ],
   "Options": [
@@ -27,6 +28,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"room_homescreen","path":"rooms/room_homescreen/room_homescreen.yy",},},
+    {"roomId":{"name":"room_gameintro","path":"rooms/room_gameintro/room_gameintro.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
