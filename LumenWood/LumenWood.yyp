@@ -1,7 +1,10 @@
 {
   "resources": [
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":0,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"font_info","path":"fonts/font_info/font_info.yy",},"order":0,},
+    {"id":{"name":"obj_introtext","path":"objects/obj_introtext/obj_introtext.yy",},"order":1,},
+    {"id":{"name":"room_gameintro","path":"rooms/room_gameintro/room_gameintro.yy",},"order":1,},
+    {"id":{"name":"room_homescreen","path":"rooms/room_homescreen/room_homescreen.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Android","path":"options/android/options_android.yy",},
@@ -26,7 +29,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"room_homescreen","path":"rooms/room_homescreen/room_homescreen.yy",},},
+    {"roomId":{"name":"room_gameintro","path":"rooms/room_gameintro/room_gameintro.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
