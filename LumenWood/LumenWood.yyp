@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"test","path":"objects/test/test.yy",},"order":5,},
+    {"id":{"name":"obj_clicker","path":"objects/obj_clicker/obj_clicker.yy",},"order":5,},
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":0,},
     {"id":{"name":"spr_abouttext","path":"sprites/spr_abouttext/spr_abouttext.yy",},"order":2,},
     {"id":{"name":"spr_homebutton","path":"sprites/spr_homebutton/spr_homebutton.yy",},"order":0,},

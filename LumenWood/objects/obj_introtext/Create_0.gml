@@ -1,4 +1,4 @@
-global.clicks = 0;
+
 
 
 text[0] = "Welcome to the village of Lumenwood!"
