@@ -2,8 +2,7 @@ global.clicks = 0;
 
 
 text[0] = "Welcome to the village of Lumenwood!"
-text[1] = "This town was once brimming with joy and prosperity"
-text[2] = "However, the dark creatures known as The Gloom have descended upon the village!"
-text[3] = "You must unite with the villagers to banish the Gloom once and for all!"
-text[4] = "Complete several villager requests and collect 100 stakes in order to defeat the Gloom!"
-text[5] = "Good Luck!!!"
+text[1] = "The dark creatures known as Gloom have taken over the village!"
+text[2] = "You must collect 100 stakes in order to ban these Gloom from the village and set the villagers free!"
+text[3] = "You can collect stakes by completing quests from villagers"
+text[4] = "Good Luck!!!"
