@@ -15,6 +15,8 @@
     {"id":{"name":"obj_homebutton","path":"objects/obj_homebutton/obj_homebutton.yy",},"order":2,},
     {"id":{"name":"spr_startbg","path":"sprites/spr_startbg/spr_startbg.yy",},"order":1,},
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},"order":0,},
+    {"id":{"name":"room_map","path":"rooms/room_map/room_map.yy",},"order":3,},
+    {"id":{"name":"tileset_map","path":"tilesets/tileset_map/tileset_map.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Android","path":"options/android/options_android.yy",},
@@ -43,6 +45,8 @@
     {"roomId":{"name":"room_start","path":"rooms/room_start/room_start.yy",},},
     {"roomId":{"name":"room_gameintro","path":"rooms/room_gameintro/room_gameintro.yy",},},
     {"roomId":{"name":"room_inforoom","path":"rooms/room_inforoom/room_inforoom.yy",},},
+    {"roomId":{"name":"room_map","path":"rooms/room_map/room_map.yy",},},
+    {"roomId":{"name":"room_homescreen","path":"rooms/room_homescreen/room_homescreen.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
