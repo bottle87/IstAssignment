@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_homebutton",
-    "path": "sprites/spr_homebutton/spr_homebutton.yy",
+    "name": "spr_aboutbutton",
+    "path": "sprites/spr_aboutbutton/spr_aboutbutton.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_homebutton",
+  "name": "obj_aboutbutton",
   "tags": [],
   "resourceType": "GMObject",
 }
