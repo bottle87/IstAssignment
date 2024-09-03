@@ -1,1 +1,1 @@
-room_goto(room_homescreen);
+room_goto(room_start);
