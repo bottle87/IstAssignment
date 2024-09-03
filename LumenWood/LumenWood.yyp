@@ -40,10 +40,14 @@
     "children": [],
   },
   "RoomOrderNodes": [
+
     {"roomId":{"name":"room_map","path":"rooms/room_map/room_map.yy",},},
     {"roomId":{"name":"room_homescreen","path":"rooms/room_homescreen/room_homescreen.yy",},},
-    {"roomId":{"name":"room_gameintro","path":"rooms/room_gameintro/room_gameintro.yy",},},
-    {"roomId":{"name":"room_inforoom","path":"rooms/room_inforoom/room_inforoom.yy",},},
+
+
+    {"roomId":{"name":"room_start","path":"rooms/room_start/room_start.yy",},},
+
+
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
