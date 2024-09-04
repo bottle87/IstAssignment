@@ -431,8 +431,8 @@
     ],
   },
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy",
+    "name": "tilesets",
+    "path": "folders/Tile Sets/tilesets.yy",
   },
   "resourceVersion": "1.0",
   "name": "tileset_map",
