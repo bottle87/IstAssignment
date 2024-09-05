@@ -13,7 +13,6 @@
     {"id":{"name":"obj_aboutbutton","path":"objects/obj_aboutbutton/obj_aboutbutton.yy",},"order":3,},
     {"id":{"name":"spr_aboutbutton","path":"sprites/spr_aboutbutton/spr_aboutbutton.yy",},"order":1,},
     {"id":{"name":"room_inforoom","path":"rooms/room_inforoom/room_inforoom.yy",},"order":2,},
-    {"id":{"name":"dirt_path","path":"tilesets/dirt_path/dirt_path.yy",},"order":1,},
     {"id":{"name":"obj_homebutton","path":"objects/obj_homebutton/obj_homebutton.yy",},"order":2,},
     {"id":{"name":"spr_startbg","path":"sprites/spr_startbg/spr_startbg.yy",},"order":1,},
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},"order":0,},
