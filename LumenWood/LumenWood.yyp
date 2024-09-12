@@ -1,8 +1,11 @@
 {
   "resources": [
     {"id":{"name":"obj_clicker","path":"objects/obj_clicker/obj_clicker.yy",},"order":5,},
+    {"id":{"name":"room_map","path":"rooms/room_map/room_map.yy",},"order":4,},
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":0,},
+    {"id":{"name":"tileset_map","path":"tilesets/tileset_map/tileset_map.yy",},"order":1,},
     {"id":{"name":"spr_abouttext","path":"sprites/spr_abouttext/spr_abouttext.yy",},"order":3,},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"spr_homebutton","path":"sprites/spr_homebutton/spr_homebutton.yy",},"order":0,},
     {"id":{"name":"font_info","path":"fonts/font_info/font_info.yy",},"order":0,},
     {"id":{"name":"obj_playerforward","path":"objects/obj_playerforward/obj_playerforward.yy",},"order":6,},
@@ -47,6 +50,7 @@
     {"roomId":{"name":"room_gameintro","path":"rooms/room_gameintro/room_gameintro.yy",},},
     {"roomId":{"name":"room_inforoom","path":"rooms/room_inforoom/room_inforoom.yy",},},
     {"roomId":{"name":"room_movementtest","path":"rooms/room_movementtest/room_movementtest.yy",},},
+    {"roomId":{"name":"room_map","path":"rooms/room_map/room_map.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
