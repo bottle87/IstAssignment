@@ -8,6 +8,7 @@
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"spr_homebutton","path":"sprites/spr_homebutton/spr_homebutton.yy",},"order":0,},
     {"id":{"name":"font_info","path":"fonts/font_info/font_info.yy",},"order":0,},
+    {"id":{"name":"spr_playerforward","path":"sprites/spr_playerforward/spr_playerforward.yy",},"order":6,},
     {"id":{"name":"spr_playerforward","path":"sprites/spr_playerforward/spr_playerforward.yy",},"order":5,},
     {"id":{"name":"obj_abouttext","path":"objects/obj_abouttext/obj_abouttext.yy",},"order":4,},
     {"id":{"name":"obj_introtext","path":"objects/obj_introtext/obj_introtext.yy",},"order":1,},
