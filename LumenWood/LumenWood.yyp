@@ -20,7 +20,7 @@
     {"id":{"name":"spr_aboutbutton","path":"sprites/spr_aboutbutton/spr_aboutbutton.yy",},"order":1,},
     {"id":{"name":"spr_playerbackward","path":"sprites/spr_playerbackward/spr_playerbackward.yy",},"order":7,},
     {"id":{"name":"room_inforoom","path":"rooms/room_inforoom/room_inforoom.yy",},"order":2,},
-    {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"order":8,},
+    {"id":{"name":"obj_startbutton","path":"objects/obj_startbutton/obj_startbutton.yy",},"order":8,},
     {"id":{"name":"obj_homebutton","path":"objects/obj_homebutton/obj_homebutton.yy",},"order":2,},
     {"id":{"name":"spr_startbg","path":"sprites/spr_startbg/spr_startbg.yy",},"order":2,},
     {"id":{"name":"room_movementtest","path":"rooms/room_movementtest/room_movementtest.yy",},"order":3,},
