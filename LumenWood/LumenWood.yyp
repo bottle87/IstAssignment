@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"obj_clicker","path":"objects/obj_clicker/obj_clicker.yy",},"order":5,},
     {"id":{"name":"room_map","path":"rooms/room_map/room_map.yy",},"order":4,},
+    {"id":{"name":"spr_playerleft","path":"sprites/spr_playerleft/spr_playerleft.yy",},"order":9,},
     {"id":{"name":"tileset_map","path":"tilesets/tileset_map/tileset_map.yy",},"order":1,},
     {"id":{"name":"obj_playerbackward","path":"objects/obj_playerbackward/obj_playerbackward.yy",},"order":7,},
     {"id":{"name":"spr_abouttext","path":"sprites/spr_abouttext/spr_abouttext.yy",},"order":3,},
@@ -9,6 +10,7 @@
     {"id":{"name":"spr_homebutton","path":"sprites/spr_homebutton/spr_homebutton.yy",},"order":0,},
     {"id":{"name":"font_info","path":"fonts/font_info/font_info.yy",},"order":0,},
     {"id":{"name":"spr_playerforward","path":"sprites/spr_playerforward/spr_playerforward.yy",},"order":5,},
+    {"id":{"name":"obj_playerleft","path":"objects/obj_playerleft/obj_playerleft.yy",},"order":9,},
     {"id":{"name":"obj_playerforward","path":"objects/obj_playerforward/obj_playerforward.yy",},"order":6,},
     {"id":{"name":"obj_abouttext","path":"objects/obj_abouttext/obj_abouttext.yy",},"order":4,},
     {"id":{"name":"obj_introtext","path":"objects/obj_introtext/obj_introtext.yy",},"order":1,},
