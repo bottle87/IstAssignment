@@ -1,1 +1,1 @@
-animation_spee
+image_speed = 0;
