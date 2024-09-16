@@ -1,1 +1,0 @@
-global.playerdirection = 2;
