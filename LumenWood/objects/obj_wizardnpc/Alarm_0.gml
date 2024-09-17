@@ -2,11 +2,10 @@ direction_dice = irandom_range(0,100)
 
 if direction_dice > 50
 {
-	image_angle = 0;
+	image_xscale = 1;
 }
-
-if direction_dice < 50
+else
 {
-	image_angle = 180;
+	image_xscale = -1;
 }
 alarm[0] = room_speed * 3;
