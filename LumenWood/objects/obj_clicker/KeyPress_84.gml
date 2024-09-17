@@ -1,1 +1,1 @@
-room_goto(room_gameintro);
+room_goto(room_movementtest);
