@@ -10,6 +10,7 @@
     {"id":{"name":"font_info","path":"fonts/font_info/font_info.yy",},"order":0,},
     {"id":{"name":"spr_playerforward","path":"sprites/spr_playerforward/spr_playerforward.yy",},"order":5,},
     {"id":{"name":"obj_abouttext","path":"objects/obj_abouttext/obj_abouttext.yy",},"order":4,},
+    {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":10,},
     {"id":{"name":"obj_introtext","path":"objects/obj_introtext/obj_introtext.yy",},"order":1,},
     {"id":{"name":"room_gameintro","path":"rooms/room_gameintro/room_gameintro.yy",},"order":1,},
     {"id":{"name":"spr_map","path":"sprites/spr_map/spr_map.yy",},"order":0,},
