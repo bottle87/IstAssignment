@@ -1,9 +1,9 @@
 x += move_x
 y += move_y
 
-if x > 1370
+if x > room_width
 {
-	x = 1300;
+	x = room_width - 70;
 }
 
 if x < 0
@@ -11,9 +11,9 @@ if x < 0
 	x = 70;
 }
 
-if y > 770
+if y > room_height
 {
-	y = 700;
+	y = room_height - 70;
 }
 
 if y < 0
