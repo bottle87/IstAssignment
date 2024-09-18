@@ -32,3 +32,13 @@ if (place_meeting(x,y+vsp,obj_wall))
 	vsp = 0;
 }
 y += vsp;
+
+if key_left and image_xscale == 1
+{
+	image_xscale = -1;
+}
+
+if key_right and image_xscale == -1
+{
+	image_xscale = 1;
+}
