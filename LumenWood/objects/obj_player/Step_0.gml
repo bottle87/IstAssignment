@@ -8,3 +8,23 @@
 
 x += _xinput * spd;
 y += _yinput * spd;
+
+if _right
+{
+	last_sprite = 1;
+}
+
+if _left 
+{
+	last_sprite = 2;
+}
+
+if _down
+{
+	last_sprite = 3;
+}
+
+if _up
+{
+	last_sprite = 4;
+}

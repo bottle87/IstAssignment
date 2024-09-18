@@ -20,5 +20,23 @@ if keyboard_check(ord("S"))
 
 if _xinput == 0 and _yinput == 0
 {
-	draw_sprite(spr_playerforward, 0, x + 500, y + 50)
+	if last_sprite == 1
+	{
+		draw_sprite(spr_playerright, 0, x, y,)
+	}
+	
+	if last_sprite == 2
+	{
+		draw_sprite(spr_playerleft, 0, x, y)
+	}
+	
+	if last_sprite == 3
+	{
+		draw_sprite(spr_playerbackward, 0, x, y)
+	}
+	
+	if last_sprite == 4
+	{
+		draw_sprite(spr_playerforward, 0, x + 500, y + 50)
+	}
 }
