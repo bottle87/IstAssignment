@@ -1,22 +1,22 @@
 x += move_x
 y += move_y
 
-if x > room_width
+if x >= room_width
 {
-	x = room_width - 70;
+	direction = direction * -1;
 }
 
-if x < 0
+if x <= 0
 {
-	x = 70;
+	direction = direction * -1;
 }
 
-if y > room_height
+if y >= room_height
 {
-	y = room_height - 70;
+	direction = direction * -1;
 }
 
-if y < 0
+if y <= 0
 {
-	y = 70;
+	direction = direction * -1;
 }
