@@ -1,3 +1,4 @@
-var position = irandom_range(160,1400);
-instance_create_layer(1100, position, "Instances", );
-alarm[0] = room_speed ;
+var position = irandom_range(200,800);
+var xpos = irandom_range(160,1400)
+instance_create_layer(xpos, position, "Instances", obj_gloom);
+alarm[0] = 20 ;

@@ -27,6 +27,7 @@
     {"id":{"name":"obj_shootertestplayer","path":"objects/obj_shootertestplayer/obj_shootertestplayer.yy",},"order":0,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"room_map","path":"rooms/room_map/room_map.yy",},"order":7,},
+    {"id":{"name":"obj_aim_hud","path":"objects/obj_aim_hud/obj_aim_hud.yy",},"order":1,},
     {"id":{"name":"obj_NPCParent","path":"objects/obj_NPCParent/obj_NPCParent.yy",},"order":0,},
     {"id":{"name":"spr_wizardnpc","path":"sprites/spr_wizardnpc/spr_wizardnpc.yy",},"order":14,},
     {"id":{"name":"obj_aboutbutton","path":"objects/obj_aboutbutton/obj_aboutbutton.yy",},"order":3,},
