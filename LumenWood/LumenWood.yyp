@@ -8,6 +8,7 @@
     {"id":{"name":"spr_gloom","path":"sprites/spr_gloom/spr_gloom.yy",},"order":16,},
     {"id":{"name":"tileset_map","path":"tilesets/tileset_map/tileset_map.yy",},"order":1,},
     {"id":{"name":"spr_abouttext","path":"sprites/spr_abouttext/spr_abouttext.yy",},"order":3,},
+    {"id":{"name":"obj_shootergloom","path":"objects/obj_shootergloom/obj_shootergloom.yy",},"order":3,},
     {"id":{"name":"room_aim","path":"rooms/room_aim/room_aim.yy",},"order":8,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"spr_homebutton","path":"sprites/spr_homebutton/spr_homebutton.yy",},"order":0,},
