@@ -4,6 +4,7 @@
     {"id":{"name":"obj_AIParent","path":"objects/obj_AIParent/obj_AIParent.yy",},"order":0,},
     {"id":{"name":"spr_platformerplayer","path":"sprites/spr_platformerplayer/spr_platformerplayer.yy",},"order":0,},
     {"id":{"name":"obj_roomsize","path":"objects/obj_roomsize/obj_roomsize.yy",},"order":15,},
+    {"id":{"name":"spr_gloom2","path":"sprites/spr_gloom2/spr_gloom2.yy",},"order":17,},
     {"id":{"name":"spr_playerleft","path":"sprites/spr_playerleft/spr_playerleft.yy",},"order":9,},
     {"id":{"name":"spr_gloom","path":"sprites/spr_gloom/spr_gloom.yy",},"order":16,},
     {"id":{"name":"tileset_map","path":"tilesets/tileset_map/tileset_map.yy",},"order":1,},
