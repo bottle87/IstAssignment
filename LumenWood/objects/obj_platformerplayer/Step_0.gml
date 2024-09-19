@@ -42,3 +42,9 @@ if key_right and image_xscale == -1
 {
 	image_xscale = 1;
 }
+
+//if (!place_meeting(x,y+1,obj_wall))
+{
+	//sprite_index = 0;
+	//image_speed = 0;
+}
