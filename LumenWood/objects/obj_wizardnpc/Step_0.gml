@@ -1,5 +1,4 @@
-x += move_x
-y += move_y
+
 
 if x >= room_width
 {
