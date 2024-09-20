@@ -1,5 +1,5 @@
-image_xscale = 0.8;
-image_yscale = 0.8;
+image_xscale = 0.4;
+image_yscale = 0.4;
 
 if keyboard_check(ord("D"))
 {

@@ -1,4 +1,4 @@
-x += irandom_range(-10,10)
-y += irandom_range(-10,10)
+x += irandom_range(-30,30)
+y += irandom_range(-30,30)
 
-alarm[1] = room_speed * 3;
+alarm[1] = room_speed * 1.5;
