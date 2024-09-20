@@ -1,2 +1,2 @@
-global.remain = 15
+global.remain = 30
 global.score = 0
