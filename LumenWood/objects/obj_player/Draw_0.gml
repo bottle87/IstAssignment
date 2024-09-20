@@ -1,3 +1,6 @@
+image_xscale = 0.8;
+image_yscale = 0.8;
+
 if keyboard_check(ord("D"))
 {
 	if keyboard_check(ord("W"))
