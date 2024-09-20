@@ -1,0 +1,7 @@
+image_angle = direction;
+if (instance_exists(obj_shplayer))
+{
+    move_towards_point(obj_shplayer.x, obj_shplayer.y, spd);
+}
+
+if (hp) <= 0 instance_destroy();

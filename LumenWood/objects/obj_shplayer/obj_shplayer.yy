@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_gloom",
-    "path": "sprites/spr_gloom/spr_gloom.yy",
+    "name": "spr_shootertestplayer",
+    "path": "sprites/spr_shootertestplayer/spr_shootertestplayer.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects/matthews work (dont touch).yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_shootergloom",
+  "name": "obj_shplayer",
   "tags": [],
   "resourceType": "GMObject",
 }
