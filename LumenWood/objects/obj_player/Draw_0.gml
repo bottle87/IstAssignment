@@ -15,7 +15,12 @@ if keyboard_check(ord("D"))
 	{
 		draw_sprite(spr_playerright, 0, x, y,)
 	}
-}	
+	
+	if keyboard_check(ord("A"))
+	{
+		draw_sprite(spr_playerright, 0, x, y)
+	}
+}
 
 if keyboard_check(ord("A"))
 {
@@ -32,6 +37,11 @@ if keyboard_check(ord("A"))
 	if !keyboard_check(ord("W")) and !keyboard_check(ord("S"))
 	{
 		draw_sprite(spr_playerleft, 0, x, y)
+	}
+	
+	if keyboard_check(ord("D"))
+	{
+		draw_sprite(spr_playerright, 0, x, y)
 	}
 }
 
