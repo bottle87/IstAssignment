@@ -21,6 +21,7 @@
     {"id":{"name":"tileset_shooter","path":"tilesets/tileset_shooter/tileset_shooter.yy",},"order":2,},
     {"id":{"name":"obj_introtext","path":"objects/obj_introtext/obj_introtext.yy",},"order":1,},
     {"id":{"name":"room_gameintro","path":"rooms/room_gameintro/room_gameintro.yy",},"order":1,},
+    {"id":{"name":"tileset_shooter2","path":"tilesets/tileset_shooter2/tileset_shooter2.yy",},"order":3,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":3,},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":2,},
     {"id":{"name":"spr_map","path":"sprites/spr_map/spr_map.yy",},"order":0,},
