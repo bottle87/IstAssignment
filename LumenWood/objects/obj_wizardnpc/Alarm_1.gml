@@ -1,12 +1,2 @@
-move_x = irandom_range(-30,30)
-move_y = irandom_range(-30,30)
-
-if move_x > -3 and move_x < 3
-{
-	move_x = move_x * 3;
-}
-
-x += move_x
-y += move_y
-
-alarm[1] = room_speed * 1.5;
+direction = irandom_range(0,360)
+alarm[1] = room_speed * 3;
