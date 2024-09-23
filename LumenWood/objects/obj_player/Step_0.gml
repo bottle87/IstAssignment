@@ -18,6 +18,17 @@ frame = fra mod(image_number);
 		 _yinput = 0;
 	 }
  }
+ 
+ if instance_exists(obj_introdialogue)
+ {
+	 _xinput = 0;
+	 _yinput = 0;
+	 _right = 0;
+	 _left = 0;
+	 _down = 0;
+	 _up = 0;
+ }
+
 
 x += _xinput * spd;
 y += _yinput * spd;
