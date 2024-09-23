@@ -21,3 +21,8 @@ if y <= 50
 	y = 50;
 	direction = direction * -1;
 }
+
+if instance_exists(obj_introdialogue)
+{
+	speed = 0;
+}
