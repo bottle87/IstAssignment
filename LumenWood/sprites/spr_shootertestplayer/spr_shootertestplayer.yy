@@ -77,8 +77,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "matthews stuff dont touch",
-    "path": "folders/Sprites/matthews stuff dont touch.yy",
+    "name": "shooter",
+    "path": "folders/Sprites/matthews stuff dont touch/shooter.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_shootertestplayer",

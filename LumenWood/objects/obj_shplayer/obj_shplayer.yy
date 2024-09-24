@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "matthews work (dont touch)",
-    "path": "folders/Objects/matthews work (dont touch).yy",
+    "name": "shooter",
+    "path": "folders/Objects/matthews work (dont touch)/shooter.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_shplayer",

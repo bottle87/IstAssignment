@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "matthews work (dont touch)",
-    "path": "folders/Objects/matthews work (dont touch).yy",
+    "name": "buttons",
+    "path": "folders/Objects/buttons.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_mapbutton",
