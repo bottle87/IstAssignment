@@ -4,8 +4,12 @@
  _up = keyboard_check(ord("W"));
  
  
-fra += 0.5;
-frame = fra mod(image_number);
+frame += 0.25;
+
+if frame > image_number
+{
+	frame = frame - image_number;
+}
 
  _xinput = _right - _left;
  _yinput = _down - _up;
