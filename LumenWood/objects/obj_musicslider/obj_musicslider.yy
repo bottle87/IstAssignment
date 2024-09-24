@@ -34,7 +34,7 @@
     "path": "folders/Objects/matthews work (dont touch)/settings.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_slider",
+  "name": "obj_musicslider",
   "tags": [],
   "resourceType": "GMObject",
 }

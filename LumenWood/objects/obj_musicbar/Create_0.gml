@@ -1,7 +1,7 @@
 rightLimit = x+(sprite_get_width(spr_bar)/2)-40
 leftLimit = x-(sprite_get_width(spr_bar)/2)+40
 
-a = instance_create_layer(x,y,"slider", obj_slider);
+a = instance_create_layer(x,y,"slider", obj_musicslider);
 a.image_xscale = 1
 a.image_yscale = 1
 a.barLength = sprite_get_width(spr_slider);

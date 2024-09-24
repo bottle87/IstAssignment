@@ -32,7 +32,7 @@
     "path": "folders/Objects/matthews work (dont touch)/settings.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_bar",
+  "name": "obj_musicbar",
   "tags": [],
   "resourceType": "GMObject",
 }
