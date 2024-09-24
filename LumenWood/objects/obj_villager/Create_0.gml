@@ -1,4 +1,4 @@
-dir = 0;
+direction = 270;
+speed = 2;
 
-alarm[0] = room_speed * 3;
-alarm[1] = room_speed * 1.5;
+alarm[0] = room_speed * 2;

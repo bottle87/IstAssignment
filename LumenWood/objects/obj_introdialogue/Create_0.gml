@@ -4,7 +4,7 @@
 // Inherit the parent event
 event_inherited();
 
-dialog.add(spr_playerdialogue, "Hello, who are you? (Press Right Arrow Key")
+dialog.add(spr_playerdialogue, "Hello, who are you? (Press Right Arrow Key)")
 dialog.add(spr_wizarddialogue, "I am the Wizard of LumenWood");
 dialog.add(spr_playerdialogue, "Wow, so cool");
 dialog.add(spr_wizarddialogue, "Well, what is your name, young fellow?");

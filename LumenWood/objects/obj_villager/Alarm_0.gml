@@ -1,5 +1,3 @@
-direction_dice = irandom_range(1,4)
+direction = direction + 90;
 
-dir = direction_dice - 1;
-
-alarm[0] = room_speed * 3;
+alarm[0] = room_speed * 2;

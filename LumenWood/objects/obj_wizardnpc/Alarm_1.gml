@@ -1,2 +1,2 @@
-direction = irandom_range(0,360)
-alarm[1] = room_speed * 3;
+direction = direction + 90;
+alarm[1] = room_speed * 2;

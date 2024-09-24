@@ -14,7 +14,14 @@ if (showing_dialog == true)
 	}
 	
 	height += padding * 2;
-	text_x = sprite_get_width(current_dialog.sprite) + (padding * 2);
+	if (current_dialog.sprite) != spr_wizarddialogue and (current_dialog.sprite) != spr_villagerdialogue
+	{
+		text_x = sprite_get_width(current_dialog.sprite) + (padding * 2);
+	}
+	else
+	{
+		text_x = 900;
+	}
 	
 	draw_set_alpha(alpha);
 	

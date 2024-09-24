@@ -1,19 +1,8 @@
-if x >= room_width
+if instance_exists(obj_villagerdialogue) or instance_exists(obj_requestcompletedialogue)
 {
-	direction = direction * -1;
+	speed = 0;
 }
-
-if x <= 0
+else
 {
-	direction = direction * -1;
-}
-
-if y >= room_height
-{
-	direction = direction * -1;
-}
-
-if y <= 0
-{
-	direction = direction * -1;
+	speed = 2;
 }

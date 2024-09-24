@@ -1,11 +1,10 @@
-if speed == 2.5
+if speed > 0
 {
 	speed = 0;
-	alarm[2] = room_speed * 5;
+}
+else
+{
+	speed = 2;
 }
 
-if speed == 0
-{
-	speed = 2.5;
-	alarm[2] = room_speed * 5;
-}
+alarm[2] = room_speed * 5;

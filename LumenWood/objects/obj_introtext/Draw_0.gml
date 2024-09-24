@@ -4,7 +4,7 @@ draw_set_colour(c_white);
 
 draw_text(x,y,text[global.clicks])
 
-if global.clicks < 5
+if global.clicks < 4
 {
 	draw_text(x,y - 100, "Press Right Arrow Key to continue");
 }
