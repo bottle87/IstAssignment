@@ -14,15 +14,15 @@
   ],
   "layers": [
     {"tilesetId":{"name":"tileset_shooter2","path":"tilesets/tileset_shooter2/tileset_shooter2.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":7,"SerialiseHeight":9,"TileSerialiseData":[
-2,1,6,1,2,1,2,
-2,1,2,1,6,1,2,
+6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,
 2,1,2,1,2,1,2,
 2,1,2,1,2,1,2,
 2,1,2,1,2,1,2,
 2,1,2,1,2,1,2,
 2,1,2,1,2,1,2,
-2,1,2,1,2,1,2,
-2,1,2,1,2,1,2,
+6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,
 ],},"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Tiles2","tags":[],"resourceType":"GMRTileLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_shplayer","path":"objects/obj_shplayer/obj_shplayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":512.0,"resourceVersion":"1.0","name":"inst_567C5163","tags":[],"resourceType":"GMRInstance",},
