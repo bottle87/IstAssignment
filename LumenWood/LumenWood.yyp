@@ -41,6 +41,7 @@
     {"id":{"name":"obj_shplayer","path":"objects/obj_shplayer/obj_shplayer.yy",},"order":2,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"room_map","path":"rooms/room_map/room_map.yy",},"order":7,},
+    {"id":{"name":"snd_bg","path":"sounds/snd_bg/snd_bg.yy",},"order":0,},
     {"id":{"name":"obj_sfxbar","path":"objects/obj_sfxbar/obj_sfxbar.yy",},"order":4,},
     {"id":{"name":"obj_aim_hud","path":"objects/obj_aim_hud/obj_aim_hud.yy",},"order":1,},
     {"id":{"name":"obj_saves","path":"objects/obj_saves/obj_saves.yy",},"order":2,},

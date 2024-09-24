@@ -7,7 +7,7 @@ a.image_yscale = 1
 a.barLength = sprite_get_width(spr_slider);
 a.rightLimit = rightLimit;
 a.leftLimit = leftLimit;
-a.percentage = global.musicVolume * 100;
+a.percentage = global.sfxVolume * 100;
 
 a.x = a.leftLimit + ((a.percentage/100) * (a.rightLimit - a.leftLimit));
 a.clicked = false;
