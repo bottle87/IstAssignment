@@ -6,14 +6,14 @@ draw_text(x,y,text[global.clicks])
 
 if global.clicks < 4
 {
-	draw_text(x,y - 100, "Press Right Arrow Key to continue");
+	draw_text(x,y - 200, "Press Right Arrow Key to continue");
 }
 else
 {
-	draw_text(x,y - 100, "Press Home Button to return to Homescreen");
+	draw_text(x,y - 200, "Press Home Button to return to Homescreen");
 }
 
 if global.clicks > 0
 {
-	draw_text(x,y + 100, "Press Left Arrow Key to go back");
+	draw_text(x,y + 200, "Press Left Arrow Key to go back");
 }

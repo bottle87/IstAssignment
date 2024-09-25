@@ -79,6 +79,7 @@
     {"id":{"name":"obj_wizardnpc","path":"objects/obj_wizardnpc/obj_wizardnpc.yy",},"order":1,},
     {"id":{"name":"room_movementtest","path":"rooms/room_movementtest/room_movementtest.yy",},"order":3,},
     {"id":{"name":"spr_villager","path":"sprites/spr_villager/spr_villager.yy",},"order":1,},
+    {"id":{"name":"obj_wizardsecondintro","path":"objects/obj_wizardsecondintro/obj_wizardsecondintro.yy",},"order":25,},
     {"id":{"name":"obj_sfxslider","path":"objects/obj_sfxslider/obj_sfxslider.yy",},"order":3,},
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},"order":0,},
   ],
