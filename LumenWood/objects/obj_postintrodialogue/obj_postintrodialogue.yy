@@ -5,8 +5,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_introdialogue",
-    "path": "objects/obj_introdialogue/obj_introdialogue.yy",
+    "name": "obj_dialogueparent",
+    "path": "objects/obj_dialogueparent/obj_dialogueparent.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
