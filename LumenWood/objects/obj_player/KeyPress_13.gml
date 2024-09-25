@@ -1,4 +1,4 @@
-if (distance_to_object(obj_wizardnpc) < 100)
+if (distance_to_object(obj_wizardnpc) < 100) and global.intro == 0
 {
 	if !instance_exists(obj_introdialogue)
 	{

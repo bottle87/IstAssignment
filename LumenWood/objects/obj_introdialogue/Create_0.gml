@@ -15,7 +15,6 @@ dialog.add(spr_wizarddialogue, "A mysterious traveller will come across the vill
 dialog.add(spr_playerdialogue, "Wow, well what do I do next?");
 dialog.add(spr_wizarddialogue, "You must collect stakes by completing various requests from villagers and playing minigames!");
 dialog.add(spr_wizarddialogue, "Once you collect 100 stakes, you will have the power to fight the Gloom in an epic boss battle and defeat them!");
-dialog.add(spr_wizarddialogue, "Here have this wand, good luck!");
 dialog.add(spr_wizarddialogue, "Here is a villager who will show you an example of a villager request");
-
+global.intro = 1;
 
