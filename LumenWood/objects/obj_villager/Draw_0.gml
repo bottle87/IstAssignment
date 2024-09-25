@@ -11,4 +11,23 @@ if (distance_to_object(obj_player) < 100) and obj_player.ingots >= 5
 {
 	draw_text(x - 50, y - 50, "Press G to Complete Request");
 }
-image_index = direction - 90;
+
+if direction = 270
+{
+	image_index = 0;
+}
+
+if direction = 180
+{
+	image_index = 1;
+}
+
+if direction = 90
+{
+	image_index = 2;
+}
+
+if direction = 0
+{
+	image_index = 3;
+}

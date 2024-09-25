@@ -14,6 +14,14 @@ if (distance_to_object(obj_wizardnpc) < 100) and global.intro == 1
 	}
 }
 
+if (distance_to_object(obj_wizardnpc) < 100) and global.intro == 2
+{
+	if !instance_exists(obj_wizardsecondintro)
+	{
+		instance_create_layer(x,y,"Instances",obj_wizardsecondintro);
+	}
+}
+
 if (distance_to_object(obj_villager) < 100) and postrequest == 0
 {
 	if !instance_exists(obj_introdialogue) and !instance_exists(obj_villagerdialogue)

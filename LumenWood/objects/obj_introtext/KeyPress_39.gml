@@ -1,1 +1,4 @@
-global.clicks += 1;
+if global.clicks < 4
+{
+	global.clicks += 1;
+}
