@@ -37,3 +37,11 @@ if (distance_to_object(obj_villager) < 100) and postrequest == 1
 		instance_create_layer(x,y,"Instances",obj_postrequestdialogue);
 	}
 }
+
+if (distance_to_object(obj_secondvillager) < 100) 
+{
+	if !instance_exists(obj_secondvillagerdialogue)
+	{
+		instance_create_layer(x,y,"Instances",obj_secondvillagerdialogue);
+	}
+}
