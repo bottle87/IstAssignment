@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_gloom",
-    "path": "sprites/spr_gloom/spr_gloom.yy",
+    "name": "spr_save1",
+    "path": "sprites/spr_save1/spr_save1.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,18 +21,19 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":10,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":11,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Aim Trainer",
-    "path": "folders/Objects/Aim Trainer.yy",
+    "name": "file1",
+    "path": "folders/Objects/savefiles/file1.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_gloom",
+  "name": "file1",
   "tags": [],
   "resourceType": "GMObject",
 }
