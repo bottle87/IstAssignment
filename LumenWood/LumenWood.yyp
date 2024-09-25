@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_shspawner","path":"objects/obj_shspawner/obj_shspawner.yy",},"order":3,},
+    {"id":{"name":"obj_postintrodialogue","path":"objects/obj_postintrodialogue/obj_postintrodialogue.yy",},"order":23,},
     {"id":{"name":"obj_clicker","path":"objects/obj_clicker/obj_clicker.yy",},"order":4,},
     {"id":{"name":"obj_AIParent","path":"objects/obj_AIParent/obj_AIParent.yy",},"order":0,},
     {"id":{"name":"spr_platformerplayer","path":"sprites/spr_platformerplayer/spr_platformerplayer.yy",},"order":0,},
@@ -41,6 +42,7 @@
     {"id":{"name":"spr_playerright","path":"sprites/spr_playerright/spr_playerright.yy",},"order":10,},
     {"id":{"name":"path","path":"sprites/path/path.yy",},"order":1,},
     {"id":{"name":"spr_shootertestplayer","path":"sprites/spr_shootertestplayer/spr_shootertestplayer.yy",},"order":1,},
+    {"id":{"name":"obj_postrequestdialogue","path":"objects/obj_postrequestdialogue/obj_postrequestdialogue.yy",},"order":24,},
     {"id":{"name":"obj_shplayer","path":"objects/obj_shplayer/obj_shplayer.yy",},"order":2,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"room_map","path":"rooms/room_map/room_map.yy",},"order":7,},
