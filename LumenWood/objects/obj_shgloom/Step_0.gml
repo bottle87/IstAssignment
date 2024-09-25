@@ -5,3 +5,4 @@ if (instance_exists(obj_shplayer))
 }
 
 if (hp) <= 0 instance_destroy();
+y = clamp(y, 250, room_height - 200)

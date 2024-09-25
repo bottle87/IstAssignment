@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_shootertestplayer",
-    "path": "sprites/spr_shootertestplayer/spr_shootertestplayer.yy",
+    "name": "spr_laser",
+    "path": "sprites/spr_laser/spr_laser.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,9 +21,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_shgloom","path":"objects/obj_shgloom/obj_shgloom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,7 +32,7 @@
     "path": "folders/Objects/matthews work (dont touch)/shooter.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_shplayer",
+  "name": "obj_player_laser",
   "tags": [],
   "resourceType": "GMObject",
 }
