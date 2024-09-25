@@ -8,3 +8,5 @@ dialog.add(spr_villagerdialogue, "Thank you Hero!");
 dialog.add(spr_playerdialogue,  "No Problem");
 dialog.add(spr_villagerdialogue, "Keep on completing villager requests to earn minigames");
 
+global.intro = 2;
+
