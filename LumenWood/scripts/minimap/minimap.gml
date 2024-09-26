@@ -33,4 +33,16 @@ draw_set_alpha(1);
 draw_set_color(c_maroon)
 draw_circle(_x+x/_s-sprite_width/(3*_s),_y+y/_s-sprite_width/(3*_s),2,0);
 }
+
+with (obj_villager)
+{
+draw_set_color(c_aqua)
+draw_rectangle(_x+x/_s-sprite_width/(2*_s),_y+y/_s-sprite_width/(2*_s),_x+x/_s+sprite_width/(2*_s),_y+y/_s+sprite_width/(2*_s),0);
+}
+
+with (obj_secondvillager)
+{
+draw_set_color(c_aqua)
+draw_rectangle(_x+x/_s-sprite_width/(2*_s),_y+y/_s-sprite_width/(2*_s),_x+x/_s+sprite_width/(2*_s),_y+y/_s+sprite_width/(2*_s),0);
+}
 }

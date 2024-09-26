@@ -2,6 +2,7 @@ draw_set_halign(fa_center)
 draw_set_color(c_black)
 draw_text(100,50, "Gloom remaining: " + string(global.remain))
 draw_text(100,75, "Score: " + string(global.score))
+draw_text(100,100,"Press Esc to pause")
 if paused == true
 {
 if !surface_exists(paused_surf)
@@ -23,6 +24,6 @@ else
     draw_set_alpha(1);
     draw_set_halign(fa_center);
     draw_text_transformed_colour(room_width / 2, room_height / 2, "PAUSED", 2, 2, 0, c_aqua, c_aqua, c_aqua, c_aqua, 1);
-    draw_set_halign(fa_left);
+	draw_set_halign(fa_left);
     }
 }

@@ -3,7 +3,7 @@ if global.remain <= 0 {
 }
 if room == room_aim
 {
-if keyboard_check_pressed(ord("L"))
+if keyboard_check_pressed(vk_escape)
     {
     paused = !paused;
     if paused == false
