@@ -5,11 +5,10 @@ if (instance_exists(obj_shplayer))
 }
 
 if (hp) <= 0 {
-	repeat(40)
-		{
-		instance_create_layer(random_range(x-45, x+45), random_range(y-30, y+30), "Instances", obj_particle);
-		} 
-	instance_destroy(self)
+	image_index = 1
+	alarm[0] = room_speed/10
+	hp += 10
+	spd = 0
 }
 
 y = clamp(y, 250, room_height - 200)
