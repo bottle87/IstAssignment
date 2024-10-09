@@ -3,3 +3,4 @@ repeat (1) {
 }
 alarm[0] = room_speed*3
 global.spawn = 1
+global.energycap = 100

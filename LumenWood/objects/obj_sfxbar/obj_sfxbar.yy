@@ -29,7 +29,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "settings",
-    "path": "folders/Objects/matthews work (dont touch)/settings.yy",
+    "path": "folders/Objects/matthews work FIX SHOOTERPLAYER HITBOX/settings.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_sfxbar",
