@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"font_intro","order":3,"path":"fonts/font_intro/font_intro.yy",},
     {"name":"font_shooter","order":1,"path":"fonts/font_shooter/font_shooter.yy",},
     {"name":"font_shooter1","order":2,"path":"fonts/font_shooter1/font_shooter1.yy",},
     {"name":"file2","order":1,"path":"objects/file2/file2.yy",},

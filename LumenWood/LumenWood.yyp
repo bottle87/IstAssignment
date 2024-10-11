@@ -53,6 +53,7 @@
   "name":"LumenWood",
   "resources":[
     {"id":{"name":"font_info","path":"fonts/font_info/font_info.yy",},},
+    {"id":{"name":"font_intro","path":"fonts/font_intro/font_intro.yy",},},
     {"id":{"name":"font_shooter","path":"fonts/font_shooter/font_shooter.yy",},},
     {"id":{"name":"font_shooter1","path":"fonts/font_shooter1/font_shooter1.yy",},},
     {"id":{"name":"file1","path":"objects/file1/file1.yy",},},

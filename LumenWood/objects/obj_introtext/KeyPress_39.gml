@@ -1,4 +1,2 @@
-if global.clicks < 4
-{
-	global.clicks += 1;
-}
+next ++;
+l = 0;
