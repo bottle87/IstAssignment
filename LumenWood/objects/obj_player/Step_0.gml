@@ -32,6 +32,16 @@ if frame > image_number
 	 _down = 0;
 	 _up = 0;
  }
+ 
+ if ingots >= 5
+ {
+	 nextsprite = obj_villager;
+ }
+ 
+ if bucket == 1
+ {
+	 nextsprite = obj_secondvillager;
+ }
 
 
 x += _xinput * spd;
