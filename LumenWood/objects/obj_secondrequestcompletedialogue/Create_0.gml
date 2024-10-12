@@ -10,6 +10,6 @@ dialog.add(spr_villagerdialogue, "You have now unlocked the Aim Trainer Minigame
 dialog.add(spr_villagerdialogue, "Keep on completing villager requests to unlock more minigames!");
 
 bucket = 0;
-nextsprite = 0;
+obj_player.nextsprite = 0;
 
 

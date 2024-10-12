@@ -1,4 +1,3 @@
-
 if keyboard_check(ord("D"))
 {
 	if keyboard_check(ord("W"))
@@ -81,4 +80,9 @@ if _xinput == 0 and _yinput == 0
 	{
 		draw_sprite(spr_playerforward, 0, x, y)
 	}
+}
+
+if nextsprite != 0
+{
+	draw_line(x,y,nextsprite.x,nextsprite.y);
 }
