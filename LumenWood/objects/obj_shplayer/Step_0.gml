@@ -1,9 +1,3 @@
-/* movement 
-if (keyboard_check(ord("D"))) x += 4; 
-if (keyboard_check(ord("A"))) x -= 4; 
-if (keyboard_check(ord("W"))) y -= 4; 
-if (keyboard_check(ord("S"))) y += 4;
-*/
 
 
 // movement
@@ -45,7 +39,7 @@ if health <= 0 room_goto(room_map);
 
 
 
-
+mask_index = spr_hitbox
 
 
 

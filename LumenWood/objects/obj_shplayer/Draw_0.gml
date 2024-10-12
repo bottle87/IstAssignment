@@ -20,3 +20,5 @@ draw_sprite_part(
 	x,
 	y
 );
+
+draw_sprite_ext(spr_staff,0,x+110,y+40,-1,1,point_direction(x, y, mouse_x, mouse_y),c_white,1);
