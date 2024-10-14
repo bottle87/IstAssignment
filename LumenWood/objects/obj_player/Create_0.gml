@@ -5,5 +5,5 @@ frame = 0;
 ingots = 0;
 global.intro = 0;
 postrequest = 0;
+secondpostrequest = 0;
 bucket = 0;
-nextsprite = obj_wizardnpc;

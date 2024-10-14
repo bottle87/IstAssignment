@@ -46,4 +46,3 @@ draw_set_color(c_aqua)
 draw_rectangle(_x+x/_s-sprite_width/(2*_s),_y+y/_s-sprite_width/(2*_s),_x+x/_s+sprite_width/(2*_s),_y+y/_s+sprite_width/(2*_s),0);
 }
 }
-
