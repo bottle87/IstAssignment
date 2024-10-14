@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_save",
-    "path": "sprites/spr_save/spr_save.yy",
+    "name": "spr_homebutton",
+    "path": "sprites/spr_homebutton/spr_homebutton.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,19 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":10,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":11,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "file2",
-    "path": "folders/Objects/savefiles/file2.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "file2",
+  "name": "obj_aimhome",
   "tags": [],
   "resourceType": "GMObject",
 }
