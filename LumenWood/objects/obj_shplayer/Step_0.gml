@@ -32,12 +32,10 @@ if keyboard_check(vk_space) {
 
 
 // keep in boundaries
-y = clamp(y, 250, room_height - 200)
+y = clamp(y, 100, room_height - 150)
 x = clamp(x, 0, 1600)
 
 if health <= 0 room_goto(room_map);
-
-
 
 mask_index = spr_hitbox
 

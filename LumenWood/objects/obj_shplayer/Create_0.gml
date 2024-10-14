@@ -3,7 +3,7 @@ global.energy = 100
 randomise();
 
 can_shoot = true;
-spd = 5
+spd = 10
 
 
 x_offset = 48;

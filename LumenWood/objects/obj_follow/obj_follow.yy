@@ -32,7 +32,7 @@
     "path": "folders/Objects/matthews work FIX SHOOTERPLAYER HITBOX/shooter.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_shgloom",
+  "name": "obj_follow",
   "tags": [],
   "resourceType": "GMObject",
 }

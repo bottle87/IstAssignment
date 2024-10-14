@@ -11,4 +11,4 @@ if (hp) <= 0 {
 	spd = 0
 }
 
-y = clamp(y, 250, room_height - 200)
+y = clamp(y, 150, room_height - 150)
