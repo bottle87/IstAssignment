@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_shbg",
-    "path": "sprites/spr_shbg/spr_shbg.yy",
+    "name": "spr_shts2",
+    "path": "sprites/spr_shts2/spr_shts2.yy",
   },
   "tileWidth": 64,
   "tileHeight": 64,

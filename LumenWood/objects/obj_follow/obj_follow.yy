@@ -29,7 +29,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "shooter",
-    "path": "folders/Objects/matthews work FIX SHOOTERPLAYER HITBOX/shooter.yy",
+    "path": "folders/Objects/matthews work/shooter.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_follow",

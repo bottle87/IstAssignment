@@ -9,6 +9,7 @@ if (hp) <= 0 {
 	alarm[0] = room_speed/10
 	hp += 10
 	spd = 0
+	global.killed += 1
 }
 
 y = clamp(y, 150, room_height - 150)

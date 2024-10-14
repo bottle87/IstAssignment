@@ -31,7 +31,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "settings",
-    "path": "folders/Objects/matthews work FIX SHOOTERPLAYER HITBOX/settings.yy",
+    "path": "folders/Objects/matthews work/settings.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_sfxslider",

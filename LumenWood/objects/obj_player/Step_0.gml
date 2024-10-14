@@ -2,7 +2,7 @@
  _left = keyboard_check(ord("A"));
  _down = keyboard_check(ord("S"));
  _up = keyboard_check(ord("W"));
- 
+mask_index = spr_hitbox2
  
 frame += 0.25;
 

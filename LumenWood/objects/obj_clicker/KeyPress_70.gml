@@ -1,1 +1,1 @@
-room_goto(room_shooter)
+room_goto(room_shmain)

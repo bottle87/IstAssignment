@@ -17,10 +17,10 @@ image_angle = point_direction(x, y, mouse_x, mouse_y);
 
 
 // shooting laser
-if !keyboard_check(vk_space) && global.energy < global.energycap {
+if !mouse_check_button(mb_left) && !keyboard_check(vk_space) && global.energy < global.energycap {
 	global.energy += 1
 }
-	
+
 if keyboard_check(vk_space) {
 	if global.energy > 0{
 		global.energy -= 1
@@ -35,10 +35,9 @@ if keyboard_check(vk_space) {
 y = clamp(y, 100, room_height - 150)
 x = clamp(x, 0, 1600)
 
-if health <= 0 room_goto(room_map);
+if health <= 0 room_goto(room_shend);
 
 mask_index = spr_hitbox
-
 
 
 

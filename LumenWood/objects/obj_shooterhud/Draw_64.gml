@@ -2,8 +2,9 @@
 draw_set_colour(c_white)
 draw_set_halign(fa_left)
 draw_set_font(font_shooter)
-draw_text(50,140, "Health: " + string(health));
-draw_text(500,140, "Laser: " + string(global.energy));
+draw_text(50,100, "Health: " + string(health));
+draw_text(500,100, "Mana: " + string(global.energy));
+draw_text(950,100, "Saved: " + string(global.killed));
 
 
 //wave
