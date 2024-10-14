@@ -1,0 +1,2 @@
+health--;
+with (other) hp--;

@@ -33,6 +33,11 @@ if frame > image_number
 	 _up = 0;
  }
 
+if ingots == 5
+{
+	obj_player.nextsprite = obj_villager;
+}
+
 
 x += _xinput * spd;
 y += _yinput * spd;
