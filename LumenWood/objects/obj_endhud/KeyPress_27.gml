@@ -1,1 +1,1 @@
-TransitionStart(room_map, sqFadeOut, sqFadeIn)
+room_goto(room_map)

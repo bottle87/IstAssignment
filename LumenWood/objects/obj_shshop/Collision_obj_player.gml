@@ -1,1 +1,0 @@
-TransitionStart(room_shmain, sqFadeOut, sqFadeIn)
