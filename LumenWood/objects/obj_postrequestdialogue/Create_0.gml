@@ -7,3 +7,4 @@ event_inherited();
 dialog.add(spr_villagerdialogue, "Please help the village, hero");
 dialog.add(spr_villagerdialogue, "Its fate rests in you");
 
+obj_player.nextsprite = obj_wizardnpc;
