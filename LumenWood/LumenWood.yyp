@@ -82,6 +82,7 @@
     {"id":{"name":"obj_ironingot","path":"objects/obj_ironingot/obj_ironingot.yy",},"order":15,},
     {"id":{"name":"tileset_shooter3","path":"tilesets/tileset_shooter3/tileset_shooter3.yy",},"order":4,},
     {"id":{"name":"obj_NPCParent","path":"objects/obj_NPCParent/obj_NPCParent.yy",},"order":0,},
+    {"id":{"name":"room_shshop","path":"rooms/room_shshop/room_shshop.yy",},"order":3,},
     {"id":{"name":"spr_shts2","path":"sprites/spr_shts2/spr_shts2.yy",},"order":2,},
     {"id":{"name":"spr_wizardnpc","path":"sprites/spr_wizardnpc/spr_wizardnpc.yy",},"order":0,},
     {"id":{"name":"room_settings","path":"rooms/room_settings/room_settings.yy",},"order":8,},
@@ -158,6 +159,7 @@
     {"roomId":{"name":"splash2","path":"rooms/splash2/splash2.yy",},},
     {"roomId":{"name":"room_shmain","path":"rooms/room_shmain/room_shmain.yy",},},
     {"roomId":{"name":"rm_save","path":"rooms/rm_save/rm_save.yy",},},
+    {"roomId":{"name":"room_shshop","path":"rooms/room_shshop/room_shshop.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

@@ -1,1 +1,1 @@
-TransitionStart(room_shmain, sqFadeOut, sqFadeIn)
+TransitionStart(room_shshop, sqFadeOut, sqFadeIn)
