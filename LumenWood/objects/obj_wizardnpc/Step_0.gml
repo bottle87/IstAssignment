@@ -22,7 +22,7 @@ if y <= 50
 	direction = direction * -1;
 }
 
-if instance_exists(obj_introdialogue) or instance_exists(obj_postintrodialogue) or instance_exists(obj_wizardsecondintro)
+if instance_exists(obj_introdialogue) or instance_exists(obj_postintrodialogue)
 {
 	speed = 0;
 }
