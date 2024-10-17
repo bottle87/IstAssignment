@@ -88,6 +88,8 @@
     {"name":"spr_ironingot","order":14,"path":"sprites/spr_ironingot/spr_ironingot.yy",},
     {"name":"spr_ironmine","order":15,"path":"sprites/spr_ironmine/spr_ironmine.yy",},
     {"name":"spr_particle","order":1,"path":"sprites/spr_particle/spr_particle.yy",},
+    {"name":"spr_platformerplayerair","order":3,"path":"sprites/spr_platformerplayerair/spr_platformerplayerair.yy",},
+    {"name":"spr_platformerplayerrunning","order":2,"path":"sprites/spr_platformerplayerrunning/spr_platformerplayerrunning.yy",},
     {"name":"spr_playerbackward","order":21,"path":"sprites/spr_playerbackward/spr_playerbackward.yy",},
     {"name":"spr_playerdialogue","order":18,"path":"sprites/spr_playerdialogue/spr_playerdialogue.yy",},
     {"name":"spr_playerforward","order":22,"path":"sprites/spr_playerforward/spr_playerforward.yy",},
