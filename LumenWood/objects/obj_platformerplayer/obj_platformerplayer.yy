@@ -34,6 +34,9 @@
     "name":"spr_platformerplayer",
     "path":"sprites/spr_platformerplayer/spr_platformerplayer.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_platformerplayer",
+    "path":"sprites/spr_platformerplayer/spr_platformerplayer.yy",
+  },
   "visible":true,
 }

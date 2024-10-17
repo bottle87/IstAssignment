@@ -152,6 +152,8 @@
     {"id":{"name":"spr_map","path":"sprites/spr_map/spr_map.yy",},},
     {"id":{"name":"spr_particle","path":"sprites/spr_particle/spr_particle.yy",},},
     {"id":{"name":"spr_platformerplayer","path":"sprites/spr_platformerplayer/spr_platformerplayer.yy",},},
+    {"id":{"name":"spr_platformerplayerair","path":"sprites/spr_platformerplayerair/spr_platformerplayerair.yy",},},
+    {"id":{"name":"spr_platformerplayerrunning","path":"sprites/spr_platformerplayerrunning/spr_platformerplayerrunning.yy",},},
     {"id":{"name":"spr_playerbackward","path":"sprites/spr_playerbackward/spr_playerbackward.yy",},},
     {"id":{"name":"spr_playerdialogue","path":"sprites/spr_playerdialogue/spr_playerdialogue.yy",},},
     {"id":{"name":"spr_playerforward","path":"sprites/spr_playerforward/spr_playerforward.yy",},},
