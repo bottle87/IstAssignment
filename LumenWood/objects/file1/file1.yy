@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "spriteId": {
     "name": "",
     "path": "",
@@ -25,15 +26,42 @@
     {"isDnD":false,"eventNum":11,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+=======
+  "$GMObject":"",
+  "%Name":"file1",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+>>>>>>> parent of 76f96d0 (Revert "Merge branch 'main' of https://github.com/bottle87/IstAssignment")
   ],
-  "properties": [],
-  "overriddenProperties": [],
-  "parent": {
-    "name": "file1",
-    "path": "folders/Objects/savefiles/file1.yy",
+  "managed":true,
+  "name":"file1",
+  "overriddenProperties":[],
+  "parent":{
+    "name":"file1",
+    "path":"folders/Objects/savefiles/file1.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "file1",
-  "tags": [],
-  "resourceType": "GMObject",
+  "parentObjectId":null,
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":null,
+  "spriteMaskId":null,
+  "visible":true,
 }
