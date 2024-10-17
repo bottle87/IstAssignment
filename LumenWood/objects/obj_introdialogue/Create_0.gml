@@ -17,4 +17,4 @@ dialog.add(spr_wizarddialogue, "You must collect stakes by completing various re
 dialog.add(spr_wizarddialogue, "Once you collect 100 stakes, you will have the power to fight the Gloom in an epic boss battle and defeat them!");
 dialog.add(spr_wizarddialogue, "Here is a villager who will show you an example of a villager request");
 global.intro = 1;
-obj_player.nextsprite = obj_villager;
+

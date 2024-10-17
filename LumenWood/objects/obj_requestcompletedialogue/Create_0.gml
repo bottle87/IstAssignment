@@ -9,4 +9,4 @@ dialog.add(spr_playerdialogue,  "No Problem");
 dialog.add(spr_villagerdialogue, "Keep on completing villager requests to earn minigames");
 
 global.intro = 2;
-obj_player.nextsprite = obj_wizardnpc;
+
