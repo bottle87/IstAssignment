@@ -29,7 +29,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "buttons",
-    "path": "folders/Objects/buttons.yy",
+    "path": "folders/Objects/matthews work/buttons.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_introbutton",

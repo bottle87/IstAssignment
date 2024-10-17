@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_clicker",
+  "name": "obj_quickcontrol",
   "tags": [],
   "resourceType": "GMObject",
 }
