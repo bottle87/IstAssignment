@@ -9,6 +9,8 @@
     {"name":"inst_724E305A","path":"rooms/room_aim/room_aim.yy",},
     {"name":"inst_8030309","path":"rooms/room_aim/room_aim.yy",},
     {"name":"inst_70657F02","path":"rooms/room_aim/room_aim.yy",},
+    {"name":"inst_64CA25C6","path":"rooms/room_aim/room_aim.yy",},
+    {"name":"inst_335AA271","path":"rooms/room_aim/room_aim.yy",},
   ],
   "isDnd":false,
   "layers":[
