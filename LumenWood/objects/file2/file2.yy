@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_save",
-    "path": "sprites/spr_save/spr_save.yy",
+    "name": "",
+    "path": "",
   },
   "solid": false,
   "visible": true,

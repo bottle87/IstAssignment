@@ -1,1 +1,1 @@
-room_goto(room_aimselect)
+room_goto(room_aim);
