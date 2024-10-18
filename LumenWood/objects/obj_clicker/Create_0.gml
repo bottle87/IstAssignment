@@ -1,0 +1,1 @@
+global.clicks = 0;
