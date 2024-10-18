@@ -33,19 +33,34 @@ if (place_meeting(x,y+vsp,obj_wall))
 }
 y += vsp;
 
-if key_left and image_xscale == 1
-{
-	image_xscale = -1;
-}
-
-if key_right and image_xscale == -1
-{
-	image_xscale = 1;
-}
-
 //Animation
-if (!place_meeting(x,y+1,obj_wall)
+if (!place_meeting(x,y+1,obj_wall))
 {
 	sprite_index = spr_platformerplayerair;
 	image_speed = 0;
+	if (sign(vsp) > 0)
+	{
+		image_index = 1;
+	}
+	else
+	{
+		image_index = 0;
+	}
+}
+else
+{
+	image_speed = 1;
+	if (hsp == 0)
+	{
+		sprite_index = spr_platformerplayer;
+	}
+	else
+	{
+		sprite_index = spr_platformerplayerrunning;
+	}
+}
+
+if (hsp != 0)
+{
+	image_xscale = sign(hsp);
 }
