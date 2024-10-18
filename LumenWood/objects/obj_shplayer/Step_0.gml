@@ -35,7 +35,7 @@ if keyboard_check(vk_space) {
 y = clamp(y, 100, room_height - 150)
 x = clamp(x, 0, 1600)
 
-if health <= 0 room_goto(room_shend);
+if health <= 0 TransitionStart(room_shend, sqFadeOut, sqFadeIn);
 
 mask_index = spr_hitbox
 

@@ -10,7 +10,7 @@ vsp = vsp + grv;
 
 if (place_meeting(x,y+1,obj_wall)) and key_jump
 {
-	vsp = -7;
+	vsp = -7;	
 }
 
 if (place_meeting(x+hsp,y,obj_wall))
@@ -33,34 +33,18 @@ if (place_meeting(x,y+vsp,obj_wall))
 }
 y += vsp;
 
-//Animation
-if (!place_meeting(x,y+1,obj_wall))
+if key_left and image_xscale == 1
 {
-	sprite_index = spr_platformerplayerair;
-	image_speed = 0;
-	if (sign(vsp) > 0)
-	{
-		image_index = 1;
-	}
-	else
-	{
-		image_index = 0;
-	}
-}
-else
-{
-	image_speed = 1;
-	if (hsp == 0)
-	{
-		sprite_index = spr_platformerplayer;
-	}
-	else
-	{
-		sprite_index = spr_platformerplayerrunning;
-	}
+	image_xscale = -1;
 }
 
-if (hsp != 0)
+if key_right and image_xscale == -1
 {
-	image_xscale = sign(hsp);
+	image_xscale = 1;
+}
+
+if (!place_meeting(x,y+1,obj_wall))
+{
+	sprite_index = 0;
+	image_speed = 0;
 }

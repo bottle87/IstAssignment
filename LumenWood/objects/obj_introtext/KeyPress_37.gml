@@ -1,2 +1,4 @@
-next --;
-l = 0;
+if global.clicks > 0
+{
+	global.clicks -= 1;
+}

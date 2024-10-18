@@ -1,5 +1,0 @@
-draw_set_color(c_black)
-draw_set_halign(fa_center)
-draw_self()
-draw_set_font(font_info)
-draw_text(x,y,"Level : 2")
