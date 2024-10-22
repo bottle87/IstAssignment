@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_homebutton",
+  "%Name":"obj_platformerbullet",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":77,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_homebutton",
+  "name":"obj_platformerbullet",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI",
-    "path":"folders/Objects/UI.yy",
+    "name":"Platformer Minigame",
+    "path":"folders/Objects/Platformer Minigame.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_homebutton",
-    "path":"sprites/spr_homebutton/spr_homebutton.yy",
+    "name":"spr_platformerbullet",
+    "path":"sprites/spr_platformerbullet/spr_platformerbullet.yy",
   },
   "spriteMaskId":null,
   "visible":true,

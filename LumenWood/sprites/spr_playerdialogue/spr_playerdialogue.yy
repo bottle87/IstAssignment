@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Dialogue Characters",
+    "path":"folders/Sprites/Dialogue Characters.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

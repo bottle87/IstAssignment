@@ -1,6 +1,6 @@
-key_left = keyboard_check(ord("A"));
-key_right = keyboard_check(ord("D"));
-key_jump = keyboard_check(ord("W"));
+key_left = keyboard_check(ord("A")) or keyboard_check(vk_left);
+key_right = keyboard_check(ord("D")) or keyboard_check(vk_right);
+key_jump = keyboard_check(ord("W")) or keyboard_check(vk_up);
 
 var move  = key_right - key_left;
 
