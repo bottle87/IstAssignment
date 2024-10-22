@@ -1,0 +1,1 @@
+TransitionStart(room_shshop, sqFadeOut, sqFadeIn)
