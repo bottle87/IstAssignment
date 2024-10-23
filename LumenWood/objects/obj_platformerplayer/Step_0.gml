@@ -10,7 +10,7 @@ vsp = vsp + grv;
 
 if (place_meeting(x,y+1,obj_wall)) and key_jump
 {
-	vsp = -7;
+	vsp = -7;	
 }
 
 if (place_meeting(x+hsp,y,obj_wall))
@@ -38,6 +38,7 @@ if (!place_meeting(x,y+1,obj_wall))
 	sprite_index = 0;
 	image_speed = 0;
 }
+<<<<<<< HEAD
 
 //Animation
 if (!place_meeting(x,y+1,obj_wall))
@@ -67,3 +68,5 @@ else
 }
 
 if (hsp != 0) image_xscale = sign(hsp);
+=======
+>>>>>>> parent of 79ce44f (Big push)

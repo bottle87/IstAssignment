@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD:LumenWood/objects/file2/file2 3.yy
   "$GMObject":"",
   "%Name":"file2",
   "eventList":[
@@ -35,4 +36,44 @@
   "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
+=======
+  "spriteId": {
+    "name": "spr_aimselect",
+    "path": "sprites/spr_aimselect/spr_aimselect.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": null,
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":10,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":11,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "aimselect",
+    "path": "folders/Objects/Aim Trainer/aimselect.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "level2",
+  "tags": [],
+  "resourceType": "GMObject",
+>>>>>>> parent of 79ce44f (Big push):LumenWood/objects/level2/level2.yy
 }
